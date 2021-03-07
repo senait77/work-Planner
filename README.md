@@ -9,8 +9,8 @@
 
   Here is a link to deploy my application:
 
-   * Repo: 
-   * Deploy:
+   * Repo: https://github.com/senait77/work-Planner
+   * Deploy: https://senait77.github.io/work-Planner/
 
 ## Table of contents
 
