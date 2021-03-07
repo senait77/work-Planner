@@ -77,7 +77,7 @@ My web page is based and inspired by;
 On the top of  HTML, CSS and JavaScript, these web-page is created with:
 * BootStap
 * Jquery
-* moments
+* moments.js
 
 
 ## Project status
