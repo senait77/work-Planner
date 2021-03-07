@@ -30,7 +30,7 @@ To run these project on the development enviroment:
 * type " git init"(these will create a local repository in you computer and only you can acsess it, so you need to to push it to Git so that it is live on the web)
 * Go to your gitHub page and create a new repository that includes a readme file and copy the URL for the ssh keys
 * back to your git Bash and type
-* * git remote add origin git@github.com:<username>/taskmaster-pro.git
+* * git remote add origin "copy the URL here"
 * * git remote -v
 * * IMPORTANT: You need to sync up with the remote GitHub repo first to get the README.md
 * * git pull origin main
