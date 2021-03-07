@@ -25,20 +25,20 @@
 
 ## Installation
 To run these project on the development enviroment:
-# In these project since it is odd number we are NOT stating from scrach, in thse case we have stating code base of HTML and CSS .In these case:-
+* * In these project since it is odd number we are NOT stating from scrach, in thse case we have stating code base of HTML and CSS .In these case:-
 * open " Git Bash"
 * type " git init"(these will create a local repository in you computer and only you can acsess it, so you need to to push it to Git so that it is live on the web)
 * Go to your gitHub page and create a new repository that includes a readme file and copy the URL for the ssh keys
 * back to your git Bash and type
 * * git remote add origin git@github.com:<username>/taskmaster-pro.git
 * * git remote -v
-# IMPORTANT: You need to sync up with the remote GitHub repo first to get the README.md
+* * IMPORTANT: You need to sync up with the remote GitHub repo first to get the README.md
 * * git pull origin main
 * Then push your first commits using :-
 * * git add -A
     git commit -m "initial files"
     git push origin main
-# If you are starting your project from scrach then use these
+* * If you are starting your project from scrach then use these
 * open " Git bash"
 * "pwd" (print working directory simply tells you in which directory you are)
 * use "code ."  to open it in your text editor, in these case VS code.
@@ -74,11 +74,11 @@ My web page is based and inspired by;
 * * enter your schedual on the specific time range and save it in your local storage 
 * * see color difference based on the current time wheather it is past, present or future.
 ## Technologies
-On the top of the basic HTML and CSS, these web-page is created with:
-* Flex Box
-* Media Query
-* Css variables
-* Lorem Ipsum Ament library version
+On the top of  HTML, CSS and JavaScript, these web-page is created with:
+* BootStap
+* Jquery
+* moments
+
 
 ## Project status
 These project is still in developing mood, as it will be updated to a more detailed code with lots of illustrations.
